@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20201014
+FROM ubuntu:xenial-20210114
 LABEL maintainer="aaronmarkham@fb.com"
 
 # caffe2 install with cpu support
